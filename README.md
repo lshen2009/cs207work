@@ -1,2 +1,2 @@
 # cs207work
-Homework 2, submitted by Lu Shen, Sep 16
+distribute_hw2_lshen.ipynb. Homework 2, submitted by Lu Shen, Sep 16
